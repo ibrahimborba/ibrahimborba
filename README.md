@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá. Bem-vindo ao meu GitHub!
+
+- Estudante de Desenvolvimento Web na Trybe
+- Aprendendo HTML, CSS e JavaScript
+- Gosto de aprender coisas novas e mergulhar em projetos desafiadores
+#### Contatos
+<a href="https://www.linkedin.com/in/ibrahimborba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="ibrahim.borba@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimborba&layout=compact&theme=dark"/>
 
 <!--
 **ibrahimborba/ibrahimborba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
