@@ -1,26 +1,12 @@
-### Olá. Bem-vindo ao meu GitHub!
+## Olá, sou Ibrahim!
 
-- Estudante de Desenvolvimento Web na Trybe
+- Estudante de Desenvolvimento Web Full Stack na Trybe
 - Aprendendo HTML, CSS e JavaScript
-- Gosto de aprender coisas novas e mergulhar em projetos desafiadores
-#### Contatos
-<a href="https://www.linkedin.com/in/ibrahimborba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="ibrahim.borba@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+- Gosto de e mergulhar em projetos desafiadores e de aprender temas novos
+ 
+#### Disponível e veja mais em:
+<a href="https://www.linkedin.com/in/ibrahimborba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
+<a href="mailto:ibrahim.borba@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:ibrahim.borba@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white&" target="_blank"></a>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimborba&layout=compact&theme=dark"/>
-
-<!--
-**ibrahimborba/ibrahimborba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimborba&layout=compact&theme=apprentice"/>
