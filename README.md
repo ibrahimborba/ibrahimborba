@@ -1,4 +1,4 @@
-## Olá, bem vinda(o) ao meu GitHub!
+## Olá, bem-vinda(o) ao meu GitHub!
 
 - Estudante de Desenvolvimento Web Full Stack na Trybe
 - Aprendendo HTML, CSS e JavaScript
