@@ -4,7 +4,8 @@
 - Learning Back-end with Docker
 - I like to dive into challenging projects, create pleasant experiences and learn new subjects
 
-#### Also avaiable at &nbsp; <a href="https://www.linkedin.com/in/ibrahimborba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a> &nbsp; <a href="mailto:ibrahim.borba@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> &nbsp; <a href="https://ibrahimborba.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white" target="_blank"></a> &nbsp;
+### Also avaiable at &nbsp;
+<a href="https://www.linkedin.com/in/ibrahimborba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a> &nbsp; <a href="mailto:ibrahim.borba@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> &nbsp; <a href="https://ibrahimborba.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white" target="_blank"></a> &nbsp;
 
 ### Languages, libraries and frameworks
 <div style="display: inline_block">
