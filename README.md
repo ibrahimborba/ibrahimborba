@@ -1,7 +1,7 @@
 ## Hey, welcome to my GitHub!
 
 - Full Stack Web Development Student at Trybe
-- Learning Back-end with Docker
+- Learning Back-end: Docker, SQL
 - I like to dive into challenging projects, create pleasant experiences and learn new subjects
 
 ### Also avaiable at &nbsp;
