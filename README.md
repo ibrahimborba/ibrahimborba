@@ -16,8 +16,8 @@
 <img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp;
 <img align="center" alt="HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
 <img align="center" alt="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> &nbsp;
-<span>JavaScript ES6, HTML5, CSS3 | Interação, estrutura e estilização de páginas web</span>
- 
+<span>JavaScript ES6, HTML5, CSS3 | Interação, estrutura e estilização de páginas web</span><p/>
+
 <img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> &nbsp;
 <img align="center" alt="Redux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"> &nbsp;
 <span>React, Redux | Componentização do Front-end do app e gerenciamento de estado</span>
@@ -26,6 +26,8 @@
 <img align="center" alt="Testing Library" height="30" width="30" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png">
 <span>Jest, RTL | Testes em JavaScript e apps React</span>
 &nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimborba&layout=compact&theme=apprentice&locale=pt-br"/>
 
 </details>
 
