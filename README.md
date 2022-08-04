@@ -1,22 +1,57 @@
+<details>
+<summary><h3>Versão em Português</h3></summary>
+<br>
+<h2> Olá, bem-vinda(o) ao meu GitHub!</h2>
+<ul>
+ <li>Estudante de Desenvolvimento Web Full Stack na Trybe</li>
+ <li>Aprendendo Back-end: Docker, MySQL e Node.js</li>
+ <li>Gosto de mergulhar em projetos desafiadores, criar experiências agradáveis e aprender temas novos</li>
+ <li>Você pode entrar em contato pelo e-mail: ibrahim.borba@gmail.com</li>
+</ul>
+
+<h3>Também estou disponível aqui</h3>
+<a href="https://www.linkedin.com/in/ibrahimborba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a> &nbsp; &nbsp; <a href="https://imborba.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white" target="_blank"></a> &nbsp;
+
+<h3>Linguagens, bibliotecas e frameworks</h3>
+<img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp;
+<img align="center" alt="HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
+<img align="center" alt="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> &nbsp;
+<span>JavaScript ES6, HTML5, CSS3 | Interação, estrutura e estilização de páginas web</span>
+ 
+<img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> &nbsp;
+<img align="center" alt="Redux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"> &nbsp;
+<span>React, Redux | Componentização do Front-end do app e gerenciamento de estado</span>
+  
+<img align="center" alt="Jest" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> &nbsp;
+<img align="center" alt="Testing Library" height="30" width="30" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png">
+<span>Jest, RTL | Testes em JavaScript e apps React</span>
+&nbsp;
+
+</details>
+
 ## Hey, welcome to my GitHub!
 
 - Full Stack Web Development Student at Trybe
 - Learning Back-end: Docker, MySQL and Node.js
-- I like to dive into challenging projects, create pleasant experiences and learn new subjects
+- I like to dive into challenging projects, create pleasant experiences and constantly learn new subjects
+- You can contact me in my e-mail: ibrahim.borba@gmail.com
 
 ### Also avaiable at &nbsp;
-<a href="https://www.linkedin.com/in/ibrahimborba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a> &nbsp; <a href="mailto:ibrahim.borba@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> &nbsp; <a href="https://imborba.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white" target="_blank"></a> &nbsp;
+<a href="https://www.linkedin.com/in/ibrahimborba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a> &nbsp; &nbsp; <a href="https://imborba.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white" target="_blank"></a> &nbsp;
 
 ### Languages, libraries and frameworks
-<div style="display: inline_block">
- <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
- <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> &nbsp;
- <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp;
- <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> &nbsp;
- <img align="center" alt="Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"> &nbsp;
- <img align="center" alt="Jest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> &nbsp;
- <img align="center" alt="Testing Library" height="40" width="40" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png">
-</div>
+<img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp;
+<img align="center" alt="HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
+<img align="center" alt="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> &nbsp;
+<span>JavaScript ES6, HTML5, CSS3 | Web page interaction, structure and styling</span>
+ 
+<img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> &nbsp;
+<img align="center" alt="Redux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"> &nbsp;
+<span>React, Redux | Front-end app componentization and state management</span>
+  
+<img align="center" alt="Jest" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> &nbsp;
+<img align="center" alt="Testing Library" height="30" width="30" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png">
+<span>Jest, RTL | Testing in JavaScript and React apps</span>
 &nbsp;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimborba&layout=compact&theme=apprentice"/>
