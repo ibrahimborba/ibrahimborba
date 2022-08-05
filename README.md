@@ -1,6 +1,6 @@
 <details>
 <summary><h3>Versão em Português</h3></summary>
-<h2> Olá, bem-vinda(o) ao meu GitHub!</h2>
+<h2> Olá, boas vindas ao meu GitHub!</h2>
 <ul>
  <li>Estudante de Desenvolvimento Web Full Stack na Trybe</li>
  <li>Aprendendo Back-end: Docker, MySQL e Node.js</li>
