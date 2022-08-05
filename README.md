@@ -1,12 +1,11 @@
 <details>
 <summary><h3>Versão em Português</h3></summary>
-<br>
 <h2> Olá, bem-vinda(o) ao meu GitHub!</h2>
 <ul>
  <li>Estudante de Desenvolvimento Web Full Stack na Trybe</li>
  <li>Aprendendo Back-end: Docker, MySQL e Node.js</li>
  <li>Gosto de mergulhar em projetos desafiadores, criar experiências agradáveis e aprender temas novos</li>
- <li>Você pode entrar em contato pelo e-mail: ibrahim.borba@gmail.com</li>
+ <li>Você pode entrar em contato pelo e-mail: <a href="mailto:ibrahim.borba@gmail.com" target="_blank">ibrahim.borba@gmail.com</a></li>
 </ul>
 
 <h3>Também estou disponível aqui</h3>
@@ -36,7 +35,7 @@
 - Full Stack Web Development Student at Trybe
 - Learning Back-end: Docker, MySQL and Node.js
 - I like to dive into challenging projects, create pleasant experiences and constantly learn new subjects
-- You can contact me in my e-mail: ibrahim.borba@gmail.com
+- You can contact me in my e-mail: <a href="mailto:ibrahim.borba@gmail.com" target="_blank">ibrahim.borba@gmail.com</a>
 
 ### Also avaiable at &nbsp;
 <a href="https://www.linkedin.com/in/ibrahimborba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a> &nbsp; &nbsp; <a href="https://imborba.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white" target="_blank"></a> &nbsp;
