@@ -66,7 +66,7 @@
 <img align="center" alt="Sequelize" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"> &nbsp;
 <img align="center" alt="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"> &nbsp;
 <img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> &nbsp;
-<span><b>Node.js, Sequelize, Docker, MySQL</b> | Criação de APIs, ORM, containers e gerenciamento de banco de dados</span>
+<span><b>Node.js, Sequelize, Docker, MySQL</b> | Criação de APIs, ORM, containers e banco de dados</span>
 
 <img align="center" alt="Mocha" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"> &nbsp;
 <img align="center" alt="Jest" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> &nbsp;
