@@ -1,34 +1,6 @@
 <details>
-<summary><h3>Versão em Português</h3></summary>
-<h2> Olá, boas-vindas ao meu GitHub!</h2>
-<ul>
- <li>Estudante de Desenvolvimento Web Full Stack na Trybe</li>
- <li>Aprendendo Back-end: Docker, MySQL e Node.js</li>
- <li>Gosto de mergulhar em projetos desafiadores, criar experiências agradáveis e aprender temas novos</li>
- <li>Você pode entrar em contato pelo e-mail: <a href="mailto:ibrahim.borba@gmail.com" target="_blank">ibrahim.borba@gmail.com</a></li>
-</ul>
+<summary><h3>English version</h3></summary>
 
-<h3>Também estou disponível aqui</h3>
-<a href="https://www.linkedin.com/in/ibrahimborba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a> &nbsp; &nbsp; <a href="https://imborba.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white" target="_blank"></a> &nbsp;
-
-<h3>Linguagens, bibliotecas e frameworks</h3>
-<img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp;
-<img align="center" alt="HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
-<img align="center" alt="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> &nbsp;
-<span><b>JavaScript ES6, HTML5, CSS3</b> | Interação, estrutura e estilização de páginas web</span><p/>
-
-<img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> &nbsp;
-<img align="center" alt="Redux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"> &nbsp;
-<span><b>React, Redux</b> | Componentização do Front-end do app e gerenciamento de estado</span>
-  
-<img align="center" alt="Jest" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> &nbsp;
-<img align="center" alt="Testing Library" height="30" width="30" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png">
-<span><b>Jest, RTL</b> | Testes em JavaScript e apps React</span>
-&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimborba&layout=compact&theme=apprentice&locale=pt-br"/>
-
-</details>
 
 ## Hey, welcome to my GitHub!
 
@@ -48,13 +20,58 @@
  
 <img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> &nbsp;
 <img align="center" alt="Redux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"> &nbsp;
-<span><b>React, Redux</b> | Front-end app componentization and state management</span>
-  
+<img align="center" alt="Material UI" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" /> 
+<span><b>React, Redux, Material UI</b> | Front-end app componentization, state management and styling</span>
+
+<img align="center" alt="Node.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> &nbsp;
+<img align="center" alt="Sequelize" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"> &nbsp;
+<img align="center" alt="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"> &nbsp;
+<img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> &nbsp;
+<span><b>Node.js, Sequelize, Docker, MySQL</b> | API creation, ORM, containers and database management</span>
+
+<img align="center" alt="Mocha" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"> &nbsp;
 <img align="center" alt="Jest" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> &nbsp;
 <img align="center" alt="Testing Library" height="30" width="30" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png">
-<span><b>Jest, RTL</b> | Testing in JavaScript and React apps</span>
+<span><b>Mocha, Jest, RTL</b> | Testing in Node.js, JavaScript and React</span>
 &nbsp;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimborba&layout=compact&theme=apprentice"/>
 
+</details>
 
+
+## Olá, boas-vindas ao meu GitHub!
+
+- Estudante de Desenvolvimento Web Full Stack na Trybe
+- Aprendendo Back-end: Docker, MySQL e Node.js
+- Gosto de mergulhar em projetos desafiadores, criar experiências agradáveis e aprender temas novos
+- Você pode entrar em contato pelo e-mail: <a href="mailto:ibrahim.borba@gmail.com" target="_blank">ibrahim.borba@gmail.com</a>
+
+
+### Também estou disponível aqui
+<a href="https://www.linkedin.com/in/ibrahimborba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a> &nbsp; &nbsp; <a href="https://imborba.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white" target="_blank"></a> &nbsp;
+
+### Linguagens, bibliotecas e frameworks
+<img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp;
+<img align="center" alt="HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
+<img align="center" alt="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> &nbsp;
+<span><b>JavaScript ES6, HTML5, CSS3</b> | Interação, estrutura e estilização de páginas web</span>
+
+<img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> &nbsp;
+<img align="center" alt="Redux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"> &nbsp;
+<img align="center" alt="Material UI" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" /> &nbsp;
+<span><b>React, Redux, Material UI</b> | Componentização do Front-end do app, gerenciamento de estado e estilização</span>
+
+<img align="center" alt="Node.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> &nbsp;
+<img align="center" alt="Sequelize" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"> &nbsp;
+<img align="center" alt="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"> &nbsp;
+<img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> &nbsp;
+<span><b>Node.js, Sequelize, Docker, MySQL</b> | Criação de APIs, ORM, containers e gerenciamento de banco de dados</span>
+
+<img align="center" alt="Mocha" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"> &nbsp;
+<img align="center" alt="Jest" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> &nbsp;
+<img align="center" alt="React Testing Library" height="30" width="30" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png">
+<span><b>Mocha, Jest, RTL</b> | Testes em Node.js, JavaScript e React</span>
+&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimborba&layout=compact&theme=apprentice&locale=pt-br"/>
