@@ -5,7 +5,7 @@
 ## Hey, welcome to my GitHub!
 
 - Full Stack Web Development Student at Trybe
-- Learning Back-end: Docker, MySQL and Node.js
+- Learning TypeScript
 - I like to dive into challenging projects, create pleasant experiences and constantly learn new subjects
 - You can contact me in my e-mail: <a href="mailto:ibrahim.borba@gmail.com" target="_blank">ibrahim.borba@gmail.com</a>
 
@@ -43,7 +43,7 @@
 ## Olá, boas-vindas ao meu GitHub!
 
 - Estudante de Desenvolvimento Web Full Stack na Trybe
-- Aprendendo Back-end: Docker, MySQL e Node.js
+- Aprendendo TypeScript
 - Gosto de mergulhar em projetos desafiadores, criar experiências agradáveis e aprender temas novos
 - Você pode entrar em contato pelo e-mail: <a href="mailto:ibrahim.borba@gmail.com" target="_blank">ibrahim.borba@gmail.com</a>
 
