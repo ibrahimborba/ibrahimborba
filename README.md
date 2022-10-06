@@ -4,9 +4,10 @@
 
 ## Hey, welcome to my GitHub!
 
-- Full Stack Web Development Student at Trybe
-- Learning OOP and SOLID
+- Full Stack Web Developer
+- Learning MongoDB
 - I like to dive into challenging projects, create pleasant experiences and constantly learn new subjects
+- Architectures and principles: MSC, REST, TDD, OOP, SOLID
 - You can contact me in my e-mail: <a href="mailto:ibrahim.borba@gmail.com" target="_blank">ibrahim.borba@gmail.com</a>
 
 ### Also avaiable at &nbsp;
@@ -33,7 +34,7 @@
 <img align="center" alt="Mocha" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"> &nbsp;
 <img align="center" alt="Jest" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> &nbsp;
 <img align="center" alt="Testing Library" height="30" width="30" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png">
-<span><b>Mocha, Jest, RTL</b> | Testing in Node.js, JavaScript and React</span>
+<span><b>Mocha, Jest, RTL</b> | Unit and integration automated tests in Node.js, JavaScript and React</span>
 &nbsp;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimborba&layout=compact&theme=apprentice"/>
@@ -43,9 +44,10 @@
 
 ## Olá, boas-vindas ao meu GitHub!
 
-- Estudante de Desenvolvimento Web Full Stack na Trybe
-- Aprendendo POO e SOLID
+- Desenvolvedor Web Full Stack
+- Aprendendo MongoDB
 - Gosto de mergulhar em projetos desafiadores, criar experiências agradáveis e aprender temas novos
+- Arquiteturas e princípios: MSC, REST, TDD, OOP, SOLID
 - Você pode entrar em contato pelo e-mail: <a href="mailto:ibrahim.borba@gmail.com" target="_blank">ibrahim.borba@gmail.com</a>
 
 
@@ -73,7 +75,7 @@
 <img align="center" alt="Mocha" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"> &nbsp;
 <img align="center" alt="Jest" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> &nbsp;
 <img align="center" alt="React Testing Library" height="30" width="30" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png">
-<span><b>Mocha, Jest, RTL</b> | Testes em Node.js, JavaScript e React</span>
+<span><b>Mocha, Jest, RTL</b> | Testes automatizados unitários e de integração em Node.js, JavaScript e React</span>
 &nbsp;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimborba&layout=compact&theme=apprentice&locale=pt-br"/>
