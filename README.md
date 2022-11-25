@@ -5,7 +5,7 @@
 ## Hey, welcome to my GitHub!
 
 - Full Stack Web Developer
-- Learning MongoDB
+- Learning Python
 - I like to dive into challenging projects, create pleasant experiences and constantly learn new subjects
 - Architectures and principles: MSC, REST, TDD, OOP, SOLID
 - You can contact me in my e-mail: <a href="mailto:ibrahim.borba@gmail.com" target="_blank">ibrahim.borba@gmail.com</a>
@@ -46,7 +46,7 @@
 ## Olá, boas-vindas ao meu GitHub!
 
 - Desenvolvedor Web Full Stack
-- Aprendendo MongoDB
+- Aprendendo Python
 - Gosto de mergulhar em projetos desafiadores, criar experiências agradáveis e aprender temas novos
 - Arquiteturas e princípios: MSC, REST, TDD, OOP, SOLID
 - Você pode entrar em contato pelo e-mail: <a href="mailto:ibrahim.borba@gmail.com" target="_blank">ibrahim.borba@gmail.com</a>
