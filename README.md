@@ -38,7 +38,7 @@
 <span><b>Mocha, Jest, RTL</b> | Unit and integration automated tests in Node.js, JavaScript and React</span>
 &nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimborba&layout=compact&theme=apprentice"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimborba&layout=compact&theme=apprentice?hide=css,html"/>
 
 </details>
 
@@ -80,4 +80,4 @@
 <span><b>Mocha, Jest, RTL</b> | Testes automatizados unitários e de integração em Node.js, JavaScript e React</span>
 &nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimborba&layout=compact&theme=apprentice&locale=pt-br"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimborba&layout=compact&theme=apprentice&locale=pt-br?hide=css,html"/>
