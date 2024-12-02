@@ -81,3 +81,4 @@
 &nbsp;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimborba&layout=compact&theme=apprentice&locale=pt-br"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimborba-sparta&layout=compact&theme=apprentice&locale=pt-br"/>
